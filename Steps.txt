@@ -1,0 +1,30 @@
+npm create vite@latest
+
+cd frontend
+npm install
+npm install react-router-dom
+npm run dev
+
+//install tailwind-refer docs
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+
+npm install axios
+
+
+BACKEND
+
+npm init (creates package.json file)
+create server.js file
+npm i express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon 
+
+
+
+Admin
+npm create vite@latest .
+tailwind if u want
+npm install
+npm run dev
+npm install axios react-router-dom react-toastify
+
