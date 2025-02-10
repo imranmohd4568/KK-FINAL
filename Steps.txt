@@ -18,7 +18,7 @@ BACKEND
 npm init (creates package.json file)
 create server.js file
 npm i express mongoose jsonwebtoken bcrypt cors dotenv body-parser multer stripe validator nodemon 
-
+nodemon server.js or node server.js
 
 
 Admin
